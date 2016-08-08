@@ -1,0 +1,22 @@
+{
+  "name": "la-podrida",
+  "version": "0.0.0",
+  "description": "La podrida es un juego de cartas muy entretenido a jugar en grupos pequeños de 3 a 6 jugadores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-react-app": "create-react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nadiafaya/la-podrida.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/nadiafaya/la-podrida/issues"
+  },
+  "dependencies": {
+    "create-react-app": "~0.2.0"
+  }
+}
